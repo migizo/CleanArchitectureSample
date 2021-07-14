@@ -1,0 +1,15 @@
+{
+    "name": "L4_View",
+    "references": [
+        "GUID:656212c8ac8134559a1de083666144ef"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

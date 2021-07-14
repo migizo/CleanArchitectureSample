@@ -1,0 +1,15 @@
+{
+    "name": "L2_UseCases",
+    "references": [
+        "GUID:515247be2a7464565a18c00a3b9fe53f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

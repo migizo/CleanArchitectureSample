@@ -1,0 +1,15 @@
+{
+    "name": "L4_UI",
+    "references": [
+        "GUID:f98d81e93bf3340ddbaa3f99878c5925"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
